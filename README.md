@@ -6,4 +6,8 @@ These are 3 tasks completed as part of a homework assignment:
 3. Supervised finetune of Qwen2.5-0.5B Base using QLoRA (Google Codelabs)
 Attached are the .ipynb files and a link to the repository.
 
+👉 Check the DOC folder for project documentation:
+
+Attached are the .ipynb files and a link to the repository.
+
 https://huggingface.co/pawelzm
